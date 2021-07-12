@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @beytutasci
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+"Draw"
 
-<!---
-beytutasci/beytutasci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Submit 1 Ethereum here. Get 5 Etherium back after 5 minutes.
 0x4C7b295B22419070De44944C640Ac2e4e663818C
